@@ -6,17 +6,14 @@
       "date": "2024-05-01",
       "location": "My House",
       "attendees": [
-        "SRINATH",
-        "SRINATH",
-        "SRINATH",
         "SRINATH"
       ]
     },
     {
       "id": "2",
-      "title": "Picnic in the Park",
+      "title": "Chennai trip",
       "date": "2024-05-05",
-      "location": "Central Park",
+      "location": "Chennai",
       "attendees": [
         "SRINATH",
         "SRINATH"
@@ -26,7 +23,7 @@
       "id": "3",
       "title": "Movie Night",
       "date": "2024-05-10",
-      "location": "Cinema 1",
+      "location": "Inox",
       "attendees": [
         "SRINATH"
       ]
