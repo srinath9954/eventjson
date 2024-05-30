@@ -3,7 +3,7 @@
     {
       "id": "1",
       "title": "Birthday Party",
-      "date": "2024-05-01",
+      "date": "2024-07-01",
       "location": "My House",
       "attendees": [
         "SRINATH"
@@ -12,7 +12,7 @@
     {
       "id": "2",
       "title": "Chennai trip",
-      "date": "2024-05-05",
+      "date": "2024-07-05",
       "location": "Chennai",
       "attendees": [
         "SRINATH",
@@ -22,7 +22,7 @@
     {
       "id": "3",
       "title": "Movie Night",
-      "date": "2024-05-10",
+      "date": "2024-08-10",
       "location": "Inox",
       "attendees": [
         "SRINATH"
@@ -31,7 +31,7 @@
     {
       "id": "4",
       "title": "Exam",
-      "date": "2024-05-07",
+      "date": "2024-07-07",
       "location": "Vellore",
       "attendees": [
         "SRINATH"
@@ -40,7 +40,7 @@
     {
       "id": 5,
       "title": "Home stay",
-      "date": "2024-05-12",
+      "date": "2024-07-12",
       "location": "home",
       "attendees": []
     }
